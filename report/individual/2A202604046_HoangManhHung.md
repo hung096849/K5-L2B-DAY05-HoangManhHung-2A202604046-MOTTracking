@@ -40,7 +40,7 @@ Số keyframe lấy từ kết quả `src/check_submission.py`.
 | P5 | 8 | 79, 91, 103, 115, 127, 138, 139, 149 | 71 | 11,3 | | |
 | **Tổng** | 132 | | 647 | 20,4 | | |
 
-Keyframe / 100 frame của cả bài = tổng keyframe ÷ tổng số frame có mặt × 100 = ...
+Keyframe / 100 frame của cả bài = tổng keyframe ÷ tổng số frame có mặt × 100 = 132 ÷ 647 × 100 ≈ 20,4
 
 Bạn đặt keyframe nhiều nhất ở người nào? Vì sao (người đó rẽ, dừng, lại gần camera hay bị che)?
 
@@ -58,7 +58,7 @@ Người bị che: `P2`
 | Thấy rõ trở lại (tắt `occluded`) | 60 |
 
 - Thời gian khuất hẳn: 21 frame = 0.7 giây.
-- Quyết định: giữ cùng ID / tạo track mới.
+- Quyết định: giữ cùng ID
 - Lý do (trả lời 3 câu: khuất bao lâu so với 60 frame, ngoại hình có khớp, chỗ hiện lại có đúng hướng và tốc độ):
 
 Khuất khoảng 3 giây, ngoại hình khớp, có hiện đúng hướng và tốc độ
